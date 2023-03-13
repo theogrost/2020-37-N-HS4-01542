@@ -12,6 +12,8 @@ Model trained on this dataset achieved 9.95 sequence error and 2.41% tokens erro
 It allowed for the creation of bibliographic dataset to study information and social networks of polish methodology scholars, 
 with an accuracy of 93.72% for the unique identifier (author - date - title).
 
+Warning - amperands are escaped, replace them with & if you wish.
+
 ## polish_methodology_scholars_dataset.csv
 This file will appear alongside publication. Stay tuned!
 This is a dataset to explorw social and information networks of Polish management sciences methodology scholars.
