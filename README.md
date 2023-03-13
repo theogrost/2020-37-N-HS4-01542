@@ -14,7 +14,7 @@ with an accuracy of 93.72% for the unique identifier (author - date - title).
 
 Warning - amperands are escaped, replace them with & if you wish.
 
-## polish_methodology_scholars_dataset.csv
+## polish_scholars_methodology_publications_sample_public.csv
 This file will appear alongside publication. Stay tuned!
 This is a dataset to explorw social and information networks of Polish management sciences methodology scholars.
 Abstracts were removed for copyright puropses.
