@@ -14,11 +14,6 @@ with an accuracy of 93.72% for the unique identifier (author - date - title).
 
 Warning - amperands are escaped, replace them with & if you wish.
 
-## polish_scholars_methodology_publications_sample_public.csv - Sample of the polish scholars' methodology publications
-This is a dataset to explorw social and information networks of Polish management sciences methodology scholars.
-Due to copyright, some informations were removed (e.g., abstracts).
-
-
 For citation please use the following text:
 
 Kosch, O. (2023) Data for exploring social and information networks of Polish management sciences methodology scholars. GitHub: https://github.com/theogrost/2020-37-N-HS4-01542.
