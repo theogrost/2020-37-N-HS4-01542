@@ -21,4 +21,5 @@ Abstracts were removed for copyright puropses.
 
 
 For citation please use the following text:
+
 Kosch, O. (2023) Data for exploring social and information networks of Polish management sciences methodology scholars. GitHub: https://github.com/theogrost/2020-37-N-HS4-01542.
