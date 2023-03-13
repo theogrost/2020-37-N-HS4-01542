@@ -3,7 +3,7 @@ The research was supported by the National Science Centre, Poland, under the res
 "Exploring social and information networks of Polish management sciences methodology scholars" [grant number 2020/37/N/HS4/01542].
 
 # Dataset descriptions
-## citation_sequences_polish.xml
+## citation_sequences_polish.xml - Segmented references - polish
 This is a dataset to train citation parser. It was tagged in compliance with AnyStyle way.
 AnyStyle's model performed poorly on references in Polish language, as national citing style standards 
 (especially in printed books) differ from globally accepted like APA.
